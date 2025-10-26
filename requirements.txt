@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sentence-transformers
+torch
+fuzzywuzzy
+scikit-learn
+numpy
+pandas
